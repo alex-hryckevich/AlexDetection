@@ -1,0 +1,3 @@
+rootProject.name='AlexDetection'
+include ':app'
+include ':openCVLibrary343'
